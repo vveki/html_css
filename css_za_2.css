@@ -1,0 +1,13 @@
+h1{ text-align: center;
+    color: rgb(54, 24, 24);
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 13px;
+    width: 300px;
+    margin: 30px;
+}
+p{
+    margin-left: 7px;
+}
+img{
+    margin-left: 7px;
+}

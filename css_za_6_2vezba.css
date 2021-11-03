@@ -1,0 +1,24 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+ul{
+    list-style-type: none;
+}
+li{
+    float: left;
+    margin: 17px 30px;
+    color: white;
+}
+i{
+    float: right;
+    color: white;
+    margin: 17px 20px;
+    font-size: 16px;
+}
+div{
+height: 50px;
+background-color: black; 
+border-bottom: yellow 2px solid;
+}

@@ -1,0 +1,22 @@
+#div_glavni{
+    background-color: rgb(77, 71, 71);
+width: 150px;
+height: 340px;
+border: black solid 3px;
+}
+.div_unutrasnji{ 
+    margin: 10px 25px;
+    width: 100px;
+    height: 100px;
+    border: black solid 1px;
+    border-radius: 100%;
+}
+#prvi{
+    background-color: red;
+}
+#drugi{
+    background-color: yellow;
+}
+#treci{
+    background-color: green;
+}

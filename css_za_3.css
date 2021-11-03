@@ -1,0 +1,21 @@
+h1{
+    color: rgb(255, 4, 4);
+
+    
+}
+#poseban_kao_ja{
+    color: blue;
+}
+.posebna_klasa_kao_ja{
+    color: chartreuse;
+}
+.dodatna_klasa{
+    font-size: 40px;
+}
+a{
+    color: darkblue;
+    background-color: darkblue;
+    text-decoration: none;
+    padding: 12px 20px;
+    border: 1px solid palevioletred;
+}

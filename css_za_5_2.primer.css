@@ -1,0 +1,47 @@
+body{
+    background-color: black;
+
+}
+table{
+    width: 60%;
+    border: white solid 10px;
+    border-collapse: collapse;
+    margin: 100px auto;
+}
+#drugi_header{
+    height: 40px;
+}
+
+#prvi_header{
+    color: white;
+    background-color: orangered;
+    height: 30px;
+    letter-spacing: 2px;
+}
+tr{
+    border: rgb(255, 102, 0) solid 2px;
+    height: 25px;
+}
+td{
+    
+    border-left: rgb(100, 99, 97) solid 2px;
+    text-align: right;
+}
+tr:nth-child(even){
+    background-color: orange;
+}
+tr:nth-child(odd){
+    background-color: white;
+}
+#tr_zadnji{
+    background-color: rgb(51, 51, 51);
+    color: white;
+}
+.Dani{
+    text-align: left;
+}
+.dopuna{
+   
+    border-left: rgb(100, 99, 97) solid 2px;
+    
+}
