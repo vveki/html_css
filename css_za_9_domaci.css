@@ -1,0 +1,52 @@
+body{
+    background-color: rgb(116, 109, 109);
+    padding-top: 100px;
+}
+form{
+    width: 300px;
+    height: 300px;
+    margin-top: 20px;
+}
+div{
+    background-image: url("https://thumbs.dreamstime.com/b/grey-texture-grass-background-imprint-grey-texture-grass-background-imprint-126690445.jpg");
+    border: white solid 10px;
+    border-radius: 10px;
+    width: 310px;
+    height: auto;
+    margin: auto;
+    text-align: right ;
+
+
+}
+
+#divprvi{
+    width: 250px;
+    text-align: left;
+    border: none;
+    border-bottom: solid white 1px;
+}
+select{
+    width: 218px;
+    margin-top: 15px;
+    border-radius: 5px;
+}
+input{
+    width: 210px;
+    margin-top: 15px;
+    border-radius: 5px;
+}
+textarea{
+    width: 212px;
+    margin-top: 15px;
+    border-radius: 5px;
+}
+button{
+    margin-top: 15px;
+    text-align: left;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: grey;
+    border-radius: 5px;
+    color: white;
+    float: left;
+    margin-left: 20px;
+}
