@@ -1,0 +1,50 @@
+body{
+    background-color: black;
+    color: white;
+}
+.prvi{
+    border-bottom: orange solid 2px;
+    text-align: right;
+}
+.prvi p{
+    display: inline-block;
+    margin-left: 30px;
+    
+}
+.prvi h1{
+    display: inline-block;
+    margin-right: 1000px;
+}
+.bcg{
+    
+        height: 400px;
+        background-size: 100%;
+        background-position: bottom;
+        background-attachment: fixed;
+        background-repeat: no-repeat;
+        text-align: center;
+       color: white;
+    
+        background-image: url("https://images.pexels.com/photos/1703317/pexels-photo-1703317.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940");
+        padding-top: 200px;
+    
+   
+}
+.drugi{
+    display: inline-block;
+}
+.drugi p{
+    color: gray;
+  
+
+    
+}
+img{
+    height: 200px;
+    width: 200px;
+   border-radius: 50%;
+
+}
+.drugi h1{
+    
+}
